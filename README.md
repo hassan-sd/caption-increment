@@ -2,6 +2,7 @@
 # Text File Word Replacement Tool
 
 This is a simple Python script that helps you replace a word with an incremental change in multiple text files.
+It can be used if you want to assign a unique value in every caption of your dataset text files, might be helpful to avoid having a similar face averaged between all your images in training
 
 ## Prerequisites
 
