@@ -27,7 +27,7 @@ To run the script, use the following steps:
 4. Follow the prompts on the command line to input the necessary information.
 
 ```bash
-$ python3 word_replace.py
+$ python3 hassan-incrementor.py
 Enter the path of the directory: /path/to/your/directory
 Enter the word to find: woman
 Enter the base word to replace with: lady
